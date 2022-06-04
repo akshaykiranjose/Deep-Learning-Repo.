@@ -1,1 +1,1 @@
-### Transfer Learning: on VGG-19 v/s benchmark CNN
+### Transfer Learning: on MobileNetV2 v/s benchmark CNN
