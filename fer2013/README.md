@@ -14,9 +14,10 @@ the reason for the majority of underperforming models.
 <img src="images/distribution.png" >
 
 ## Model
+<img src="images/params.png" >
 
-With nearly 2.1 M parameters, the model resembes **Xception**
-The depth and residual, separable layers are more suited for a different dataset, but nonetheless, shows great reluctance to overfit, compared to a vanilla CNN.
+With nearly 2.1 M parameters, the model resembes **Xception**.
+The depth, paired with residual & separable_conv_2d layers are more suited for a more fuller dataset, but nonetheless, shows reluctance to overfit compared to a vanilla CNN and was chosen.
 
 
 Image is shown below.
