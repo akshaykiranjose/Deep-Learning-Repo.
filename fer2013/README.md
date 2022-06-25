@@ -19,8 +19,7 @@ the reason for the majority of underperforming models.
 With nearly 2.1 M parameters, the model resembes **Xception**.
 The depth, paired with residual & separable_conv_2d layers are more suited for a more fuller dataset, but nonetheless, shows reluctance to overfit compared to a vanilla CNN and was chosen.
 
-
-Image is shown below.
+Model architecture is shown in the .ipynb file.
 
 ## Metrics
 The best model was retrieved using __Model Checkpoint__ callback.
@@ -34,9 +33,14 @@ On training data:
 <img src="images/confmat.png" >
 
 
-## Model
+## Real-time predictions
 
-<img src="images/fer2013.png" >
+<img src="images/rt1.png" >
+
+<img src="images/rt2.png" >
+
+<img src="images/rt3.png" >
+
 
 ### References
 [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357 "arxiv")
