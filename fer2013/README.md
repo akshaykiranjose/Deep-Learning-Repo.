@@ -35,11 +35,11 @@ On training data:
 
 ## Real-time predictions
 
-<img src="images/rt1.png" >
+<img src="images/rt1.PNG" >
 
-<img src="images/rt2.png" >
+<img src="images/rt2.PNG" >
 
-<img src="images/rt3.png" >
+<img src="images/rt3.PNG" >
 
 
 ### References
