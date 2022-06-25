@@ -33,8 +33,9 @@ On training data:
 <img src="images/confmat.png" >
 
 
-
 ## Model
 
 <img src="images/fer2013.png" >
 
+### References
+[Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357 "arxiv")
