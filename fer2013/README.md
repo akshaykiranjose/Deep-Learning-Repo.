@@ -14,9 +14,8 @@ the reason for the majority of underperforming models.
 <img src="images/distribution.png" >
 
 ## Model
-<img src="images/params.png" >
 
-With nearly 2.1 M parameters, the model resembes **Xception**.
+With nearly 3 M parameters, the model resembes **Xception**.
 The depth, paired with residual & separable_conv_2d layers are more suited for a more fuller dataset, but nonetheless, shows reluctance to overfit compared to a vanilla CNN and was chosen.
 
 Model architecture is shown in the .ipynb file.
