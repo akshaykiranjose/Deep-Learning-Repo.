@@ -1,4 +1,4 @@
-# Documentation, EMOTOR 2022
+# Documentation, EMOTOR '22
 
 ## Data
 
