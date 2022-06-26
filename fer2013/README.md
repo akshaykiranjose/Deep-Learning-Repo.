@@ -35,7 +35,7 @@ On training data:
 
 ## Real-time predictions
 
-<img src="images/rt1.PNG" >
+<img src="images/rt1.PNG" width = 580>
 
 <img src="images/rt2.PNG" >
 
